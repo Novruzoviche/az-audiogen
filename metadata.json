@@ -1,0 +1,8 @@
+{
+  "name": "Səda — Azərbaycan Dili Audiobook və Səs Sintezi Mühərriki",
+  "description": "Qabaqcıl Azərbaycan dili səs sintezi və peşəkar studiya audiobook mühərriki. UTF-8 mətnləri ədəbi orfoepiya və dərin kişi diktor səsi ilə WAV və MP3 audio axınına çevirir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
